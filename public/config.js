@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_DEPLOYMENT_ENV": "mainnet",
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "swapmos",
   "VITE_ORDERLY_BROKER_NAME": "swapmos.com",
   "VITE_BROKER_EOA_ADDRESS": "0xb75b68ff020013958ac96a8de8e83c7edfa90ef3",
   "VITE_DISABLE_MAINNET": "false",
